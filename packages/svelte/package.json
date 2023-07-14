@@ -20,6 +20,6 @@
   },
   "type": "module",
   "dependencies": {
-    "svelte-kit-sst": "2.21.1"
+    "svelte-kit-sst": "2.21.4"
   }
 }
